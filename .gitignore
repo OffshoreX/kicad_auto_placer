@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*-backups/
+*.bak
+fp-info-cache
+_autosave-*
